@@ -17,7 +17,7 @@ Welcome to the Currency Converter Website! This is a simple yet powerful tool th
 ## Installation
 
 1. **Clone the Repository**:
-    git clone https://github.com/your-username/currency-converter.git
+    git clone https://github.com/yugalkaushik/currency-converter.git
 
 2. **Navigate to the Project Directory**:
     cd currency-converter
@@ -26,12 +26,11 @@ Welcome to the Currency Converter Website! This is a simple yet powerful tool th
 
 ## Usage
 
-1. **Select the Currency to Convert From**: Choose the currency you want to convert from using the dropdown menu.
-2. **Enter the Amount**: Input the amount you wish to convert.
+1. **Enter the Amount**: Input the amount you wish to convert.
+2. **Select the Currency to Convert From**: Choose the currency you want to convert from using the dropdown menu.
 3. **Select the Currency to Convert To**: Pick the currency you want to convert to from the dropdown menu.
-4. **Click the "Convert" Button**: Hit the convert button to perform the currency conversion.
-5. **View Results**: The converted amount will be displayed below the button, along with the exchange rate used for conversion.
-
+4. **Click the "Get Exchange rate" Button**: Hit the convert button to perform the currency conversion.
+5. **View Results**: The converted amount will be displayed above the button.
 ## API Integration
 
 This currency converter website integrates with a currency conversion API to fetch real-time exchange rates. Follow these steps to integrate the API:
@@ -40,3 +39,5 @@ This currency converter website integrates with a currency conversion API to fet
 2. **Replace API Key**: Replace `"YOUR_API_KEY"` in the JavaScript code with your actual API key.
 3. **Ensure Security**: Keep your API key secure and avoid exposing it publicly.
 
+## Contribution
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to create an issue or open a pull request.
